@@ -1,13 +1,13 @@
 {
   "name": "albocoin",
   "symbol": "ALBO",
-  "description": "Beschreibung des albocoin.",
-  "image": "www.testserver123.de/testdaten/albocoin.jpg",
+  "description": "Babacoin 3000, scam u all",
+  "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg6",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "www.testserver123.de/testdaten/albocoin.jpg",
+        "uri": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg",
         "type": "image/jpeg"
       }
     ],
