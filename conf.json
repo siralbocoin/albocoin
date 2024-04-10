@@ -1,16 +1,23 @@
 {
-  "name": "albocoin",
+  "name": "Albocoin",
   "symbol": "ALBO",
-  "description": "Babacoin 3000, scam u all",
-  "image": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg6",
+  "description": "Scam u all",
+  "image": "https://github.com/siralbocoin/albocoin/raw/main/albocoin-logo.png",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://albocoin.example.com",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://i.natgeofe.com/n/4f5aaece-3300-41a4-b2a8-ed2708a0a27c/domestic-dog_thumb_square.jpg",
-        "type": "image/jpeg"
+        "uri": "https://github.com/siralbocoin/albocoin/raw/main/albocoin-logo.png",
+        "type": "image/png"
       }
     ],
-    "category": "image"
+    "creators": [
+      {
+        "address": "DEINE_SOLANA_WALLET_ADRESSE",
+        "share": 100
+      }
+    ]
   }
 }
