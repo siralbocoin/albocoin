@@ -2,20 +2,20 @@
   "name": "Albocoin",
   "symbol": "ALBO",
   "description": "Scam u all",
-  "image": "https://github.com/siralbocoin/albocoin/raw/main/albocoin-logo.png",
-  "seller_fee_basis_points": 500,
-  "external_url": "https://albocoin.example.com",
+  "image": "https://github.com/siralbocoin/albocoin/raw/main/albofighter.jpeg",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://www.9gag.com",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://github.com/siralbocoin/albocoin/raw/main/albocoin-logo.png",
-        "type": "image/png"
+        "uri": "https://github.com/siralbocoin/albocoin/raw/main/albofighter.jpeg",
+        "type": "image/jpeg"
       }
     ],
     "creators": [
       {
-        "address": "DEINE_SOLANA_WALLET_ADRESSE",
+        "address": "DF4VttwLoi7ihr2akq5hD1nHPG6ywY3Fpswf6zuwiuXr",
         "share": 100
       }
     ]
